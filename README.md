@@ -1,4 +1,3 @@
-$ cat > "/c/Users/keehoon/Desktop/coding/README.md" << 'EOF'
 # Excel Data Analysis — Data Technician Bootcamp (Week 1)
 
 A collection of Excel exercises completed during Week 1 of a Data Technician bootcamp, working with **retail sales**, **bike sales** and **regional product sales** datasets. The focus of the week was turning raw spreadsheets into structured, queryable data and then summarising it into insights that a non-technical audience can act on.
@@ -142,6 +141,3 @@ Alongside the Excel work, the week covered two areas that frame how the analysis
 - A PivotTable answers questions faster than a formula when the question is "how does this break down by…"
 - Charts exist to make one point clearly, not to display every column available
 EOF
-wc -l "/c/Users/keehoon/Desktop/coding/README.md"
-
-142 /c/Users/keehoon/Desktop/coding/README.md
